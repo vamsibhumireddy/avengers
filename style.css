@@ -1,0 +1,54 @@
+body{
+    background: url();
+     background-repeat: no-repeat;
+     background-size: cover;
+     font-family: 'Oswald',sans-serif;
+ }
+ .heading{
+     font-style:normal ;
+     font-size: large;
+     align: center;
+     color: red;
+ }
+ .avernges{
+     font-style: italic;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: xx-large;
+     font-display: inherit;
+ }
+ .heading h1{
+     position: absolute;
+     margin-left: 430px;
+     color: white;
+     margin-top: 15px;
+ }
+ .main{
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     width: 1300px;
+     height: 800px;
+     background: rgba(0, 0, 0, 0.66);
+     margin-left: 380px;
+ }
+ h2{
+     margin-left: 120px;
+     margin-top: 50px;
+     counter : white ;
+ }
+ .first{
+     margin-left: 60px;
+ }
+ .firstimage{
+     margin-left: 0px;
+     margin-top: 40px;
+ }
+ .second{
+     margin-top: 40px;
+ }
+ .image{
+     width: 150px;
+     height: 150px;
+     border-radius: 5px 5px 0px 0px;
+     margin-left: 20px;
+     margin-top: 25px;
+ }
